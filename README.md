@@ -1,4 +1,4 @@
-## Astronomic toolbar
+## Astro-toolbar
 
 Combine following image data into thin horizontal toolbar:
 
